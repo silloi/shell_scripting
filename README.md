@@ -22,7 +22,7 @@ Example:
 
 Example:
 
-```:sh
+```sh
 DEBUG=true
 HTML_DIR=/var/www
 ```
@@ -33,7 +33,7 @@ HTML_DIR=/var/www
 
 Example:
 
-xxx:sh
+```sh
 local GREETING="Hello!"
 ```
 
