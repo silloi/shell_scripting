@@ -7,7 +7,7 @@
 Example:
 
 ```sh
-#/bin/bash
+#!/bin/bash
 ```
 
 2. Does your script include a comment describing the purpose of the script?
